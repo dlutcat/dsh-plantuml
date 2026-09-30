@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "private": true,
   "description": "Render PlantUML diagrams inline in the DSH chat, with diagram/source view switching. Runs the official TeaVM-compiled PlantUML engine entirely in the browser: no Java, no PlantUML server, no network.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlutcat/dsh-plantuml.git"
+  },
+  "homepage": "https://github.com/dlutcat/dsh-plantuml#readme",
+  "bugs": {
+    "url": "https://github.com/dlutcat/dsh-plantuml/issues"
+  },
   "keywords": [
     "dsh",
     "dsh-plugin",

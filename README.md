@@ -164,6 +164,10 @@ inline surface sits inside the block's clipped, rounded box.
   gesture's conventional meaning in a zoomable canvas, and a plain wheel still
   scrolls.
 
+## License
+
+[MIT](LICENSE) © dlutcat.
+
 ## Third-party software
 
 The engine under `vendor/` is PlantUML's own build, redistributed under the MIT
